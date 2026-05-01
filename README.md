@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Filippo 👋
 
-<!--
-**FilippoGaravaglia/FilippoGaravaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Engineer focused on backend development with .NET and C#.
 
-Here are some ideas to get you started:
+I work on enterprise software products, designing APIs, backend services, integrations and data access layers with attention to reliability, maintainability and clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing a Master's degree in Artificial Intelligence, with the goal of combining solid software engineering practices with AI-based solutions that improve and automate real business processes.
+
+## Main interests
+
+- .NET / C# backend development
+- REST APIs and service integrations
+- MongoDB and data persistence
+- Clean architecture and maintainable code
+- Document workflows and AI-oriented automation
+- Machine Learning and Artificial Intelligence
