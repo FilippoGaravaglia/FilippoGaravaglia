@@ -51,7 +51,7 @@ Key areas:
 
 Current public preview:
 
-[**GlucoDesk v0.2.2-preview**](https://github.com/FilippoGaravaglia/GlucoDesk/releases/tag/v0.3.0-preview)
+[**GlucoDesk v0.3.0-preview**](https://github.com/FilippoGaravaglia/GlucoDesk/releases/tag/v0.3.0-preview)
 
 ---
 
