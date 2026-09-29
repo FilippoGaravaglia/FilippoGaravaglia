@@ -40,7 +40,10 @@ I'm also pursuing a **Master's degree in Artificial Intelligence**, with the goa
     <img src="https://img.shields.io/github/v/release/FilippoGaravaglia/GlucoDesk?include_prereleases&style=flat-square&label=release" alt="GlucoDesk latest release" />
   </a>
   <a href="https://github.com/FilippoGaravaglia/GlucoDesk/releases">
-    <img src="https://img.shields.io/github/downloads/FilippoGaravaglia/GlucoDesk/total?style=flat-square&logo=github&label=release%20asset%20downloads" alt="GlucoDesk release asset downloads" />
+    <img
+  src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/FilippoGaravaglia/GlucoDesk/main/.github/downloads-badge.json&style=flat-square&logo=github"
+  alt="GlucoDesk release asset downloads"
+/>
   </a>
   <a href="https://github.com/FilippoGaravaglia/GlucoDesk/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/FilippoGaravaglia/GlucoDesk?style=flat-square" alt="GlucoDesk license" />
