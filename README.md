@@ -28,7 +28,6 @@ I'm also pursuing a **Master's degree in Artificial Intelligence**, with the goa
 ## Featured projects
 
 ### [GlucoDesk](https://github.com/FilippoGaravaglia/GlucoDesk)
-
 <p>
   <a href="https://github.com/FilippoGaravaglia/GlucoDesk/stargazers">
     <img src="https://img.shields.io/github/stars/FilippoGaravaglia/GlucoDesk?style=flat-square&logo=github&label=stars" alt="GlucoDesk GitHub stars" />
@@ -52,6 +51,18 @@ I'm also pursuing a **Master's degree in Artificial Intelligence**, with the goa
       src="https://img.shields.io/github/downloads/FilippoGaravaglia/GlucoDesk/total?style=flat-square&logo=github&label=release%20asset%20downloads"
       alt="GlucoDesk release asset downloads"
     />
+  </a>
+
+  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/FilippoGaravaglia/GlucoDesk?style=flat-square" alt="GlucoDesk license" />
+  </a>
+
+  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/commits/main">
+    <img src="https://img.shields.io/github/last-commit/FilippoGaravaglia/GlucoDesk?style=flat-square&label=last%20commit" alt="GlucoDesk last commit" />
+  </a>
+
+  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/issues">
+    <img src="https://img.shields.io/github/issues/FilippoGaravaglia/GlucoDesk?style=flat-square&label=open%20issues" alt="GlucoDesk open issues" />
   </a>
 </p>
 
