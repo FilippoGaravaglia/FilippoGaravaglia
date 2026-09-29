@@ -41,7 +41,7 @@ I'm also pursuing a **Master's degree in Artificial Intelligence**, with the goa
   </a>
 <a href="https://github.com/FilippoGaravaglia/GlucoDesk/releases">
   <img
-    src="https://img.shields.io/badge/release%20asset%20downloads-154-blue?style=flat-square&logo=github"
+    src="https://img.shields.io/github/downloads/FilippoGaravaglia/GlucoDesk/total?style=flat-square&logo=github&label=release%20asset%20downloads"
     alt="GlucoDesk release asset downloads"
   />
 </a>
