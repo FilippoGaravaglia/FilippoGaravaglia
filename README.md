@@ -29,41 +29,14 @@ I'm also pursuing a **Master's degree in Artificial Intelligence**, with the goa
 
 ### [GlucoDesk](https://github.com/FilippoGaravaglia/GlucoDesk)
 <p>
-  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/stargazers">
-    <img src="https://img.shields.io/github/stars/FilippoGaravaglia/GlucoDesk?style=flat-square&logo=github&label=stars" alt="GlucoDesk GitHub stars" />
-  </a>
-
-  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/forks">
-    <img src="https://img.shields.io/github/forks/FilippoGaravaglia/GlucoDesk?style=flat-square&logo=github&label=forks" alt="GlucoDesk GitHub forks" />
-  </a>
-
-  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/releases">
-    <img src="https://img.shields.io/github/v/release/FilippoGaravaglia/GlucoDesk?include_prereleases&style=flat-square&label=release" alt="GlucoDesk latest release" />
-  </a>
-
-  <img
-    src="https://img.shields.io/badge/historical%20downloads-147-informational?style=flat-square&logo=github"
-    alt="GlucoDesk historical release downloads"
-  />
-
-  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/releases">
-    <img
-      src="https://img.shields.io/github/downloads/FilippoGaravaglia/GlucoDesk/total?style=flat-square&logo=github&label=release%20asset%20downloads"
-      alt="GlucoDesk release asset downloads"
-    />
-  </a>
-
-  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/FilippoGaravaglia/GlucoDesk?style=flat-square" alt="GlucoDesk license" />
-  </a>
-
-  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/commits/main">
-    <img src="https://img.shields.io/github/last-commit/FilippoGaravaglia/GlucoDesk?style=flat-square&label=last%20commit" alt="GlucoDesk last commit" />
-  </a>
-
-  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/issues">
-    <img src="https://img.shields.io/github/issues/FilippoGaravaglia/GlucoDesk?style=flat-square&label=open%20issues" alt="GlucoDesk open issues" />
-  </a>
+  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/stargazers"><img src="https://img.shields.io/github/stars/FilippoGaravaglia/GlucoDesk?style=flat-square&logo=github&label=stars" alt="GlucoDesk GitHub stars" /></a>
+  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/forks"><img src="https://img.shields.io/github/forks/FilippoGaravaglia/GlucoDesk?style=flat-square&logo=github&label=forks" alt="GlucoDesk GitHub forks" /></a>
+  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/releases"><img src="https://img.shields.io/github/v/release/FilippoGaravaglia/GlucoDesk?include_prereleases&style=flat-square&label=release" alt="GlucoDesk latest release" /></a>
+  <img src="https://img.shields.io/badge/downloads%20before%20asset%20reset-147-informational?style=flat-square&logo=github" alt="GlucoDesk downloads before asset reset" />
+  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/releases"><img src="https://img.shields.io/github/downloads/FilippoGaravaglia/GlucoDesk/total?style=flat-square&logo=github&label=current%20downloads" alt="GlucoDesk current release downloads" /></a>
+  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FilippoGaravaglia/GlucoDesk?style=flat-square" alt="GlucoDesk license" /></a>
+  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/commits/main"><img src="https://img.shields.io/github/last-commit/FilippoGaravaglia/GlucoDesk?style=flat-square&label=last%20commit" alt="GlucoDesk last commit" /></a>
+  <a href="https://github.com/FilippoGaravaglia/GlucoDesk/issues"><img src="https://img.shields.io/github/issues/FilippoGaravaglia/GlucoDesk?style=flat-square&label=open%20issues" alt="GlucoDesk open issues" /></a>
 </p>
 
 **A local-first desktop companion for glucose awareness.**
